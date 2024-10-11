@@ -1,1 +1,5 @@
-# BuildH3R_october_metis
+# Metis workshop for October BuildH3R
+
+I have successfully deployed the Dapp !
+
+## Contract Address
